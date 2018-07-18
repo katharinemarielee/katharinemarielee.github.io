@@ -60,21 +60,20 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     </item>
     
     <item>
-      <title>|  Katharine MN Lee
-| Curriculum Vitae
-</title>
+      <title>Curriculum Vitae</title>
       <link>/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/cv/</guid>
-      <description>Education  2013-present University of Illinois at Urbana-Champaign (UIUC). Urbana, IL
+      <description>Katharine MN Lee University of Illinois at Urbana-Champaign
+109 Davenport Hall, 607 S Mathews Ave, Urbana, IL 61801
+kmLee6@illinois.edu
+Education  2013-present University of Illinois at Urbana-Champaign (UIUC). Urbana, IL
 PhD Candidate - Biological Anthropology
 Department of Anthropology  2007 Texas A&amp;amp;M-Texarkana. Texarkana, TX
 Master of Science in Business Administration
 Army Materiel Command Fellows Program  2006 Tulane University. New Orleans, LA
-Bachelor of Science in Engineering, field of Biomedical Engineering
-Thesis title: 3-D Image Reconstruction of Human Brain Geometry from the Visible Human Project
-Thesis advisors: J.K. Francis Suh, PhD, and Richard Hart, PhD    Professional and Research Employment  University of Illinois Urbana-Champaign, Urbana, Illinois; Aug 2013 – present</description>
+Bachelor of Science in Engineering, field of Biomedical Engineering</description>
     </item>
     
   </channel>
