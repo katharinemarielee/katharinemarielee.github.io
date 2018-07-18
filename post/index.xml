@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Katharine Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Making this site accessible and my first open-source contribution</title>
+      <link>/2018/07/18/making-this-site-accessible-and-my-first-open-source-contribution/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/07/18/making-this-site-accessible-and-my-first-open-source-contribution/</guid>
+      <description>I wanted to make this website both as a place to write the occassional blog post and as a place I could point people as I look for a job. As my Twitter bio says, though, I like fairness. Which for me includes working to make sure things are accessible to everyone by default.
+So I reached out on Twitter to ask for a tool to test my website for accessiblity for screenreaders.</description>
+    </item>
     
     <item>
       <title>Test Blog post of my own</title>
@@ -17,7 +27,7 @@
       <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/07/17/test-blog-post-of-my-own/</guid>
-      <description>Zombie Ipsum Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit, morbo vel maleficia? De apocalypsi gorger omero undead survivor dictum mauris. Hi mindless mortuis soulless creaturas, imo evil stalking monstra adventus resi dentevil vultus comedat cerebella viventium. Qui animated corpse, cricket bat max brucks terribilem incessu zomby. The voodoo sacerdos flesh eater, suscitat mortuos comedere carnem virus.</description>
+      <description>Zombie Ipsum Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit, morbo vel maleficia? De apocalypsi gorger omero undead survivor dictum mauris. Hi mindless mortuis soulless creaturas, imo evil stalking monstra adventus resi dentevil vultus comedat cerebella viventium. Qui animated corpse, cricket bat max brucks terribilem incessu zomby. The voodoo sacerdos flesh eater, suscitat mortuos comedere carnem virus. Zonbi tattered for solum oculi eorum defunctis go lum cerebro.</description>
     </item>
     
   </channel>
