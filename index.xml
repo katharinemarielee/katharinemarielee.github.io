@@ -6,10 +6,30 @@
     <description>Recent content on Katharine Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am a biological anthropologist and engineer studying women’s health using theoretical perspectives derived from feminist biology and anthropology. I earned my Bachelor’s of Science degree in Biomedical Engineering from Tulane University and my Master’s of Science in Business Administration from Texas A&amp;amp;M – Texarkana as part of a fellowship with the Department of Defense. I worked as an engineer at the Center for Military Biomechanics Research at Natick Soldier Systems Center and the Biophysics and Biomedical Modeling Division of the U.</description>
+    </item>
+    
+    <item>
+      <title>Where you can find me this fall</title>
+      <link>/where-to-find-me/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/where-to-find-me/</guid>
+      <description>This year, I am working hard at trying to finish my dissertation. This means I’ll be spending plenty of time in the lab trying to turn urine into data and plenty of time desperately writing (dissertation, papers, job applications…).
+However, I am excited that I will be at the following conferences, symposia, and panels:
+ September 27 2018 Data Science Day I will be part of a panel from 10:45-12:15 PM called “Hesitant Data Science” put together by the Illinois Data Science Initiative at the NCSA building at the University of Illinois, Urbana-Champaign.</description>
+    </item>
     
     <item>
       <title>Making this site accessible and my first open-source contribution</title>
@@ -28,15 +48,6 @@ So I reached out on Twitter to ask for a tool to test my website for accessiblit
       
       <guid>/2018/07/17/test-blog-post-of-my-own/</guid>
       <description>Zombie Ipsum Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit, morbo vel maleficia? De apocalypsi gorger omero undead survivor dictum mauris. Hi mindless mortuis soulless creaturas, imo evil stalking monstra adventus resi dentevil vultus comedat cerebella viventium. Qui animated corpse, cricket bat max brucks terribilem incessu zomby. The voodoo sacerdos flesh eater, suscitat mortuos comedere carnem virus. Zonbi tattered for solum oculi eorum defunctis go lum cerebro.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>I built this site using instructions from blogdown: Creating Websites with R Markdown blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
     <item>
