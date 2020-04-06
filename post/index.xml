@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Katharine Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Favorite References for Working in R</title>
+      <link>/2020/04/06/my-favorite-references-for-working-in-r/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/06/my-favorite-references-for-working-in-r/</guid>
+      <description>This is a post that I will likely update later, but for now, I wanted to gather together some of my favorite references for working in R. Some of these may assume a certain baseline knowledge of R, some are more about thinking through your data management and organizing your analysis in a way that is easier for Future You to revisit it. It’s based on my perspective as someone who has mostly done work for academic-style research purposes and works primarily in R.</description>
+    </item>
     
     <item>
       <title>Making this site accessible and my first open-source contribution</title>

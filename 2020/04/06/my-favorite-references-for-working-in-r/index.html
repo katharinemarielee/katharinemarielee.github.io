@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.44" />
+
+
+<title>My Favorite References for Working in R - Katharine Lee</title>
+<meta property="og:title" content="My Favorite References for Working in R - Katharine Lee">
+
+
+
+  
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/fonts.css" media="all">
+<link rel="stylesheet" href="/css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/" class="nav-logo">
+    <img src="/images/KLee_headshot%20copy.png"
+         width="50"
+         height="50"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="/about/">About</a></li>
+    
+    <li><a href="/cv/">CV</a></li>
+    
+    <li><a href="https://github.com/resourcefulsquirrel">GitHub</a></li>
+    
+    <li><a href="https://twitter.com/resourcefulsqrl">Twitter</a></li>
+    
+    <li><a href="/where-to-find-me/">Where to Find Me</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">8 min read</span>
+    
+
+    <h1 class="article-title">My Favorite References for Working in R</h1>
+
+    
+    <span class="article-date">2020/04/06</span>
+    
+
+    <div class="article-content">
+      <p>This is a post that I will likely update later, but for now, I wanted to gather together some of my favorite references for working in R. Some of these may assume a certain baseline knowledge of R, some are more about thinking through your data management and organizing your analysis in a way that is easier for Future You to revisit it. It’s based on my perspective as someone who has mostly done work for academic-style research purposes and works primarily in R. If you want this information for another language, I’m sorry I can’t help you.</p>
+<p>It’s based in part on <a href="https://twitter.com/ResourcefulSqrl/status/1201686366242967553?s=20">this thread</a> that I tweeted, but I wanted to expand on a lot of these references and add some other thoughts. Additionally, I wanted to make the information easier for me to find and easier for me to point people to it.</p>
+<p>First, everyone is always learning. Let’s all collectively try to be supportive and encouraging.</p>
+<p>Second, one of the frustrating and amazing things about programming and data analysis is that there are multiple ways to do everything. Sometimes there are good reasons to choose one way over another. Sometimes it is personal preference. Sometimes it’s just the only way you managed to get it to work. Whatever. Accept it. Keep learning new ways to do stuff if you want, or keep using the way that works for you.</p>
+<p>Third, I’m going to reference three people a bunch in this post: Past You, Present You, and Future You (or Past Me, Present Me, and Future Me). Right now Present You can’t do anything to fix what Past You did. Present You can only work to make life a little easier for Future You. Present Me usually thinks that Past Me was a lazy jerk who should have documented things better (maybe Past You was diligent and orderly…if so, congrats!). Sometimes Present Me accepts that Past Me didn’t know enough to do things better, or technology has changed, or that Past Me was doing the best we could in that situation, alright? But I like to pause when working to think about what Future Me would wish Present Me was doing for this project right now, and then take steps to make life a little easier for Future Me.</p>
+<p>A lot of my work, before going back to graduate school, was made possible by Other People’s Data. I’ve seen great Other People’s Data and I’ve seen confusing and messy Other Peoples Data. I’ve assembled confusing and messy datasets (Past Me didn’t know what she was doing!), and I’ve assembled well-documented datasets. For analyses, I often feel like we’re basically all like Wallace and Grommet, putting down tracks as fast as we can to keep moving forward.</p>
+<iframe src="https://giphy.com/embed/3oz8xtBx06mcZWoNJm" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen>
+</iframe>
+<p>
+<a href="https://giphy.com/gifs/aardman-cartoon-train-3oz8xtBx06mcZWoNJm">via GIPHY</a>
+</p>
+<p>[stepping on my little soapbox]</p>
+<div id="data-management" class="section level1">
+<h1>Data Management</h1>
+<p>Keeping track of where your data came from and what you did to it is really important. So much of the data we use (speaking as an anthropologist and researcher in the area of human health) can’t be recreated because of the specific contextual nature. It takes time and money to collect data. Depending on the type of research you do, you’ve been entrusted with personal information from other people. Keeping track of it, and making sure it’s effectively used for the things you described in your proposals and IRBs is the least you can do, but it takes time and effort and planning.</p>
+<p>That being said, here are some of my favorite readings on data organization and data management.</p>
+<ul>
+<li><a href="https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989">Data Organization in Spreadsheets</a> by Karl Broman and Kara Woo. Spreadsheets are not going away. Someday I dream of having a project that includes funding for an actual database with a database administrator. Until then, we’re all still probably going to be entering data from handwritten paper sheets into spreadsheets. But!!! We can do this in ways that make our data safer and easier to use in the future. Give this one a quick read and see if there is ONE THING you could start doing now in your research to make life easier for Future You.</li>
+<li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510#sec027">Good Enough Practices in Scienctific Computing</a>, written together by a slew of awesome folks. There is a lot of information in this, but I’d start with reading the <em>The Data Management</em> section if you’re new to doing some of these things. Again, see if there is ONE THING that makes sense to incorporate into your project.</li>
+<li><a href="https://www.jstatsoft.org/article/view/v059i10">Tidy Data</a> by Hadley Wickham is a classic. It is what helped me realize how important it is to plan ahead for analysis when organizing your data.</li>
+</ul>
+<p>I find that each time I re-read these two articles, I remember that there is something that I started doing because I read about it that now feels natural to my workflow and there is something else small that I can attempt to incorporate.</p>
+</div>
+<div id="reproducible-research" class="section level1">
+<h1>Reproducible Research</h1>
+<p>Making sure your work is reproducible is important. It’s important for scientific integrity, for Future You who has revisions or new ideas, for whoever gets your project later, etc.</p>
+<p>Reproducible basically means you could start with the same data and remake the same analyses (plots, results, models, tables, etc). There are a number of more technical definitions and distinctions, but that’s a good starting point, and I think it makes it more manageable to think about steps you can take to achieve that goal.</p>
+<p>My favorite readings on this are:</p>
+<ul>
+<li><a href="https://www.crcpress.com/Reproducible-Research-with-R-and-RStudio/Gandrud/p/book/9780367143985">Reproducible Research with R and RStudio</a> or compile your own version <a href="https://github.com/christophergandrud/Rep-Res-Book">here</a>. I have the second version, and I think it is totally worth the cost to have it as a paperback. It outlines a lot of considerations, and walks you through a number of options. But mostly it breaks down the various research tasks you might have (at least the computer-y ones) and helps you identify ways to make it more reproducible.</li>
+<li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510#sec027">Good Enough Practices in Scientific Computing</a> (yes, again). See if there is ONE THING that makes sense to incorporate into your project.</li>
+<li><a href="https://peerj.com/preprints/3192/">Packaging data analytical work reproducibly using R (and friends)</a> by Ben Marwick, Carl Boettiger, and Lincoln Mullen. This one is a bit more technical at times, but it introduces the idea of a Research Compendium, and gives a few different versions of what that might look like for various types of projects. I like how it lays out several options of different complexity. It also provides some goals for how to share your data and analyses more effectively with collaborators.</li>
+<li><a href="https://leanpub.com/reportwriting">Report Wrting for Data Science in R</a> by Roger Peng. I like this one, because a lot of times in my collaborations, when I’m giving updates to my collaborators it helps if I can show them stuff, and then update what I show them at the next meeting based on our discussion. In my mind, this is basically writing them a report. This book walks you through some considerations to make that easier and less tedious. The report-writing isn’t exactly the same as the work that would go into a manuscript, but it can help you have conversations with your team to narrow down the scope of your manuscript, and then you can re-use a lot of that work when it comes time to write your official version.</li>
+<li><a href="https://emilyriederer.netlify.com/post/rmarkdown-driven-development/">RMarkdown Driven Development (RmdDD)</a> by Emily Riederer. Honestly, this one probably best matches how I tend to do stuff. Because you don’t always know where your analyses will go, but this gives you some ways to think through re-organizing after you get your footing in a project.</li>
+</ul>
+</div>
+<div id="learning-r-stuff-in-general" class="section level1">
+<h1>Learning R stuff in general</h1>
+<p>-<a href="http://www.cookbook-r.com">Cookbook for R</a> and the associated <a href="http://www.amazon.com/gp/product/1449316956/">R Graphics Cookbook</a>. Both provide small examples, sample code, and show you how tweaking parts of the code change what happens.
+- <a href="https://r4ds.had.co.nz">R for Data Science</a> is available completely online, but I also have a paper copy because I find it easier to flip through and reference. This goes a bit more in-depth on some data wrangling and cleaning stuff that is really useful in real life (where our data do not arrive all neat and tidy). Additionally, I find their approach to thinking through the analysis steps and process and workflow useful
+- <a href="http://socviz.co">Data Visualization: A practical introduction</a> by Kieran Healy. I kinda like this one in part because it deals with social science data, which is often more messy to analyze and interpret than some of the main example datasets often used in R tutorials. It is also based on concepts from Tufte, and it tries to get you familiar with ideas and concepts rather than throwing a TON of code at you.
+- <a href="https://www.coursera.org/specializations/jhu-data-science">Data Science Specialization at Coursera</a> from Johns Hopkins Biostats department. This is a great collection of classes that go over everything from getting started in R to different types of analyses. I highly recommend it if you prefer to learn from videos instead of books. The classes are free, and I periodically skip around and watch the videos that are most pertinent to my current questions or roadblocks.
+- <a href="https://carpentries.org">The Carpentries</a> There are various free lessons available on a bunch of topics (not just R!) through their Data Carpentries, Software Carpentries, and Library Carpentries. Poke around, try lessons. See if there is a workshop happening near you some time.</p>
+<p>In addition to these readings, I find it helpful to look at other people’s code and have people look at my code. Each week on twitter you can peruse the TidyTuesday hashtag and see a bunch of examples of people exploring a dataset. You can see different approaches people take, different questions, different visualizations.</p>
+</div>
+
+    </div>
+  </article>
+
+  
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
+          </li>
+          <li>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/images/hugo-logo.png" alt="Img link to Hugo website" width="22" height="22"></a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    
+
+    
+
+    
+  </body>
+</html>
+
