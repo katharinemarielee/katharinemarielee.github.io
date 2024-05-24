@@ -3,15 +3,14 @@ title: "Curriculum Vitae"
 ---
 
 # Katharine MN Lee, MS, PhD
-**Assistant Professor**\
+
+**2022 - current: Assistant Professor**\
 Tulane University, New Orleans, LA\
 Department of Anthropology\
 kLee32\@tulane.edu
 
-
-
-
 ## Education and Training {#education .unnumbered}
+
 2020-2022
 
 :   **Washington University School of Medicine**. St Louis, MO\
@@ -42,7 +41,7 @@ kLee32\@tulane.edu
 
 Washington University School of Medicine
 
-:   St. Louis, Missouri; Aug 2020 -- Present\
+:   St. Louis, Missouri; Aug 2020 -- Jun 2022\
     Division of Public Health Sciences
 
     *Postdoctoral Scholar* NIH/NCI T32 postdoctoral training program in cancer prevention and control
@@ -114,20 +113,20 @@ Vanderbilt University,
 
 :   **National Science Foundation Graduate Research Fellowship Program** (NSF GRFP)
 
-
 ## Teaching Experience {#teaching-experience .unnumbered}
 
 Certified Carpentries Instructor
 
 :   Teaching foundational programming, data science, and data managment techniques using curriculum designed for scientists and researchers
 
-
 ### Washington University in St. Louis
+
 2020 Fall
 
 :   Applied Qualitative Methods. Teaching assistant
 
 ### University of Illinois Urbana-Champaign
+
 2019 Fall
 
 :   ANTH 246 - Forensic Science (online). Teaching Assistant
