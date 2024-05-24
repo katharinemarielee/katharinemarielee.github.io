@@ -1,6 +1,5 @@
 ---
 title: "Curriculum Vitae"
-subtitle: "Katharine Lee"
 ---
 
 # Katharine MN Lee, MS, PhD
