@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs
 
+
 website:
   title: "Katharine Lee"
   navbar:
@@ -11,6 +12,9 @@ website:
       - about.qmd
       - publications.qmd
       - cv.qmd
+      - posts.qmd
+      
+
 
 format:
   html:

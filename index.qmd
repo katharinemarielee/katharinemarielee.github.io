@@ -3,3 +3,5 @@ title: "Katharine Lee"
 ---
 
 Created using [this reference](https://quarto.org/docs/websites/)
+
+Blog tried from instructions [here](https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/#fn2)
