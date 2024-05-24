@@ -1,6 +1,7 @@
 ---
 title: "My Favorite References for Working in R"
 author: "K. Lee"
+date: "2020-04-06"
 ---
 
 This is a post that I will likely update later, but for now, I wanted to gather together some of my favorite references for working in R. Some of these may assume a certain baseline knowledge of R, some are more about thinking through your data management and organizing your analysis in a way that is easier for Future You to revisit it. It's based on my perspective as someone who has mostly done work for academic-style research purposes and works primarily in R. If you want this information for another language, I'm sorry I can't help you.
@@ -15,8 +16,11 @@ Third, I'm going to reference three people a bunch in this post: Past You, Prese
 
 A lot of my work, before going back to graduate school, was made possible by Other People's Data. I've seen great Other People's Data and I've seen confusing and messy Other Peoples Data. I've assembled confusing and messy datasets (Past Me didn't know what she was doing!), and I've assembled well-documented datasets. For analyses, I often feel like we're basically all like Wallace and Grommet, putting down tracks as fast as we can to keep moving forward (that is the gif below, which I can't figure out how to give an image description).
 
-<iframe src="https://giphy.com/embed/3oz8xtBx06mcZWoNJm" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/aardman-cartoon-train-3oz8xtBx06mcZWoNJm">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/3oz8xtBx06mcZWoNJm" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen>
 
+</iframe>
+
+<p><a href="https://giphy.com/gifs/aardman-cartoon-train-3oz8xtBx06mcZWoNJm">via GIPHY</a></p>
 
 # Data Management
 
