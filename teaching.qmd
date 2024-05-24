@@ -1,0 +1,7 @@
+---
+title: "Teaching"
+author: "K. Lee"
+---
+
+# Example assignments
+[Data in the Wild](https://katharinemarielee.github.io/ClassAssignments/InterpretDataVis.html)

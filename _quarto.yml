@@ -12,6 +12,7 @@ website:
       - about.qmd
       - publications.qmd
       - cv.qmd
+      - teaching.qmd
       - posts.qmd
       
 
