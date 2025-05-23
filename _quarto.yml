@@ -13,6 +13,7 @@ website:
       - publications.qmd
       - cv.qmd
       - teaching.qmd
+      - lab.qmd
       - posts.qmd
       
 
