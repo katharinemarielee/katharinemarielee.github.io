@@ -3,4 +3,14 @@ title: "Lab"
 author: "K. Lee"
 ---
 
-Students who want to work in my lab _must_ complete the CITI training requirements described on the Tulane Human Research Protection Office (HRPO) page, as described here: [Tulane Office of Research - CITI Training](https://research.tulane.edu/hrpo/citi-training)
+Students who want to work in my lab *must* complete the CITI training requirements described on the Tulane Human Research Protection Office (HRPO) page, as described here: [Tulane Office of Research - CITI Training](https://research.tulane.edu/hrpo/citi-training)
+
+# Air quality monitors
+
+::: {#PurpleAirWidget_278265_module_US_EPA_AQI_conversion_C0_average_10_layer_US_EPA_AQI}
+Loading PurpleAir Widget...
+:::
+
+```{=html}
+<script src='https://www.purpleair.com/pa.widget.js?key=G2OXDQ9U61HXXLXK&module=US_EPA_AQI&conversion=C0&average=10&layer=US_EPA_AQI&container=PurpleAirWidget_278265_module_US_EPA_AQI_conversion_C0_average_10_layer_US_EPA_AQI'</script>
+```
